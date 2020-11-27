@@ -1,0 +1,12 @@
+Note:if you don't have python install it using given setup,make sure you tick the tk/tkinter module using customize instalation
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#FIRST COPY GST FOLDER IN 'C' DRIVE
+_____________________________________
+#THEN INSTAL PILLOW ACCORDING TO YOUR PYTHON
+VERSION ,
+eg:if you are having python 3.7
+      instal pillow:Pillow-6.0.0.win-amd64-py3.7
+____________________________________
+#THEN COPY GST INVOICE (python file)ON DESKPOT
+______________________________
+READY TO RUN
